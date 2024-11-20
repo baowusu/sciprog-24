@@ -11,6 +11,6 @@
 
 * ./conversion
   
-*./sum
+* ./sum
 
 :)
